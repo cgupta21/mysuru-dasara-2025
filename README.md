@@ -7,7 +7,7 @@ The website provides information about the history, cultural significance, daily
 ## 🌐 Live Demo
 
 **Live Website:**
-https://wonderful-tartufo-0953ab.netlify.app/
+https://mysurudasara2k25.netlify.app/
 
 ## 📖 About the Project
 
@@ -113,7 +113,7 @@ Web Development Project
 The project is deployed using **Netlify**.
 
 **Live Website:**
-https://wonderful-tartufo-0953ab.netlify.app/
+https://mysurudasara2k25.netlify.app/
 
 ---
 
